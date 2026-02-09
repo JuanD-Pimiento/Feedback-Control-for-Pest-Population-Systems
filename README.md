@@ -5,5 +5,5 @@
 
 This repository contains files regarding the design and simulation of a Feedback Control for 3 Pest Population Systems:
 * Chacón's Model of Unique Pesticide Application
-* Chacón's Model of Unique Pesticide Application
+* Chacón's Model of Summation of Pesticide Applications
 * Lotka-Volterra Model under Pesticide Application
