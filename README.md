@@ -1,5 +1,5 @@
-# Feedback-Control-for-Pest-Population-Systems
-##### _Simulations of feedback controllers for 3 models of pests population dynamics._
+# Feedback Control for Pest Population Systems 🐛📈
+##### _Simulations of feedback controllers for 3 models of pests population dynamics_
 ##### _Bachelor's degree thesis in Mechatronics Engineering_
 
 
