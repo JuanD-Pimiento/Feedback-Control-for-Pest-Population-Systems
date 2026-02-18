@@ -6,4 +6,7 @@
 This repository contains files regarding the design and simulation of a Feedback Control for 3 Pest Population Systems:
 * Chacón's Model of Unique Pesticide Application
 * Chacón's Model of Summation of Pesticide Applications
-* Lotka-Volterra Model under Pesticide Application
+* Lotka-Volterra (LV) Model under Pesticide Application
+
+In this repository I must acknowledge that in the "notebook_LV_stability.nb" (the one with the solution for the LV system) the use of the function to transform the interpolating functions, output of NDSolve, into Piecewise functions proposed by the user "Carl Woll" in the following _Mathematica StackExchange_ Thread: 
+https://mathematica.stackexchange.com/questions/59944/extracting-the-function-from-interpolatingfunction-object
